@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296868544465",
+    "project_id": "coffee-mate-b811b",
+    "storage_bucket": "coffee-mate-b811b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296868544465:android:c97ef56ce7439059b82af0",
+        "android_client_info": {
+          "package_name": "com.example.coffeemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuskDcVeF2bmOI3x0tQPTCtIm3NS1UREE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
